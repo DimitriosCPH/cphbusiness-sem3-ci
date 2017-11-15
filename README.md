@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/DimitriosCPH/cphbusiness-sem3-ci.svg?branch=master)
+[![Build Status](https://travis-ci.org/DimitriosCPH/cphbusiness-sem3-ci.svg?branch=master)](https://travis-ci.org/DimitriosCPH/cphbusiness-sem3-ci.svg?branch=master)
 
 # cphbusiness-sem3-ci
 Continuous integration for third semester
